@@ -1,6 +1,6 @@
 # wordle_yl5929
 
-A package for doing great things!
+A package for creating the wordle game
 
 ## Installation
 
